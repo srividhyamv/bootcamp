@@ -1,0 +1,22 @@
+
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+
+.button-red {
+    color: #fff!important;
+    background-color: #f44336!important;
+    width: 150px;    
+}
+
+.label {
+    color: green;
+    padding: 8px;
+  }
+
+  label {
+
+    color: darkblue;
+    padding:10px;
+  }
